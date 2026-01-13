@@ -2,8 +2,8 @@ backend:
   name: github
   repo: alberto56/presentation_technical_approach
   branch: master
-  base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/694f514f18f56cc358266521
+  base_url: https://app.staticauth.com
+  auth_endpoint: /auth/github/repo/696663d78a3239f204717620
 media_folder: static/uploads
 public_folder: /uploads
 collections:
